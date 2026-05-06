@@ -66,8 +66,7 @@ The system follows a **client-server architecture**:
 
 - The client side is built using **AdminLTE 3**, providing a structured and responsive admin dashboard interface.
 - **jQuery and AJAX** are used to enable asynchronous communication between client and server without full page reloads.
-- The server side handles business logic, authentication, notifications, and data processing.
-- The system integrates **email and SMS services** to send automated notifications to users.
+- The server side handles business logic, notifications, and data processing. 
 - The database stores student records, grades, scholarship data, and system logs.
 
 ---
@@ -77,12 +76,11 @@ The system follows a **client-server architecture**:
 ### Scope
 - Designed for academic institutions to manage student records and scholarships  
 - Supports multiple user roles such as administrators, faculty, and students  
-- Provides notification system via email and SMS  
+- Provides notification system via email
 - Accessible across desktop, tablet, and mobile devices via web browsers  
 
 ### Limitations
 - Requires internet or network connectivity for system access and notifications  
-- SMS delivery depends on third-party service availability  
 - No native mobile application (web-based only)  
 - System performance depends on server and network conditions  
 
@@ -95,7 +93,7 @@ The system follows a **client-server architecture**:
 - Enhances transparency in scholarship evaluation  
 - Provides cross-device accessibility through responsive design  
 - Improves user experience through AJAX-based interactions  
-- Enables real-time communication through email and SMS notifications  
+- Enables real-time communication through email notifications  
 - Uses AdminLTE 3 for a professional and structured interface  
 
 ---
