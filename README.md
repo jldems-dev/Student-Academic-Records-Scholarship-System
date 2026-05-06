@@ -58,7 +58,7 @@ The system aims to:
 - **Backend:** PHP (or actual backend used)  
 - **Database:** MySQL  
 - **Design Approach:** Responsive Web Design (RWD)  
-- **Communication Services:** Email and SMS Notification System  
+- **Communication Services:** Email Notification System  
 
 ---
 
