@@ -38,9 +38,7 @@ The system aims to:
 - Record approval and verification workflows  
 
 ### 3.4 Notifications System
-- Email notifications for important updates (e.g., application status, approvals)  
-- SMS notifications for real-time alerts and announcements  
-- Automated messaging for system-triggered events  
+- Email notifications for important updates (e.g., application status, approvals)    
 
 ### 3.5 Responsive Web Access
 - Fully responsive interface for desktop, tablet, and mobile devices  
