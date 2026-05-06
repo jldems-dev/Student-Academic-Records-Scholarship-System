@@ -114,16 +114,6 @@ This system is developed as a **capstone/thesis project** and is intended for ac
 
 ---
 
-## 10. Developer
-
-**John Lyric Demegillo**  
-Bachelor of Science in Computer Science  
-GitHub: https://github.com/jldems  
-LinkedIn: https://www.linkedin.com/in/john-lyric-demegillo-83218523b  
-Email: johnlyricdemegillo@gmail.com  
-
----
-
-## 11. License
+## 10. License
 
 This project is intended for academic purposes only. Unauthorized commercial use or distribution is not permitted.
